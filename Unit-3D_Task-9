@@ -1,0 +1,9 @@
+x = 100
+
+def display():
+    x = 50  
+    print("Local variable x:", x)
+
+display()
+
+print("Global variable x:", x)
